@@ -8,14 +8,47 @@
 	</tr>
 	<tr>
 		<td align="center">  
-	En tant qu’utilisateur, je souhaite  s’inscrire/authentifier à l’application afin d’accéder à mon espace propre
+		1
 		</td>
-		<td>           
-		En tant qu’utilisateur, je souhaite  gérer (ajouter, modifier, supprimer)
-                mes projets
-		</td>
-		<td align="center">
-	En tant qu’utilisateur, je souhaite gérer (ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
-		</td>
+		 <td>           
+	              En tant qu’utilisateur, je souhaite  s’inscrire/authentifier à l’application afin d’accéder à mon espace propre	
+		 </td>
+		    <td align="center">
+		  5
+		  </td>
 	</tr>
+	<tr>
+		<td align="center">  
+		    2
+		</td>
+		 <td>           
+	              En tant qu’utilisateur, je souhaite  gérer (ajouter, modifier, supprimer)   mes projets.
+		 </td>
+		 <td align="center">
+		     9
+		 </td>
+	</tr>
+	<tr>
+		<td align="center">  
+		    3
+		</td>
+		 <td>           
+	          En tant qu’utilisateur, je souhaite gérer (ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
+		 </td>
+		 <td align="center">
+		     9
+		 </td>
+	</tr>
+		<tr>
+		<td align="center">  
+		    4
+		</td>
+		 <td>           
+	En tant qu’utilisateur, je souhaite Entrer les informations des personnes qui travaillerons en calaboration avec moi		                  </td>
+		 <td align="center">
+		     4
+		 </td>
+	</tr>
+	
+	
 </table>
