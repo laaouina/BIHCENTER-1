@@ -4,21 +4,20 @@
 
 </head>
 <body>
-<div class="container" style="margin: 100px auto;" >
+<div style="margin: 100px auto;" >
 
 <h3 style="color:red;text-align:center;margin-bottom:70px;">Plannification des taches sur les sprints</h3>
 <table width="800px" cellspacing="0" cellpadding="0">
-  <thead>
+
     <tr bgcolor="#00FF00">
       <th>Sprint 0</th>
       <th>Sprint1</th>
       <th>Sprint 2</th>
       <th>Sprint 3 </th>
     </tr>
-  </thead>
-  <tbody>
-    <tr class="table-warning">
-         <th>Initiale </th>
+ 
+    <tr>
+         <th>  Initiale </th>
 
          <th> 1  2 3 4</th>
   
@@ -26,8 +25,7 @@
     
          <th> 14  15 16 17 18 19 20  </th>
     </tr>
-   
-  </tbody>
+
 </table>
 </div>
 </body>
