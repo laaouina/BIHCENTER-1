@@ -50,16 +50,6 @@
              4
          </td>
       </tr>
-      <tr>
-        <td align="center">  
-            5
-        </td>
-         <td>           
-           En tant qu’utilisateur, je souhaite définir les membres d’équipe d’un projet master scrum  etc…	                                          </td>
-         <td align="center">
-             4
-         </td>
-      </tr>
 
   </table>
   
