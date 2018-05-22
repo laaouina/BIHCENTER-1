@@ -1,9 +1,4 @@
 
-<html>
-<head>
-
-</head>
-<body>
 <div style="margin: 100px auto;" >
 
 <h3 style="color:red;text-align:center;margin-bottom:70px;">Plannification des taches sur les sprints</h3>
@@ -17,17 +12,14 @@
     </tr>
  
     <tr>
-         <th>  Initiale </th>
+         <td align="center">  Initiale </td>
 
-         <th> 1  2 3 4</th>
+         <td> 1  2 3 4</td>
   
-         <th> 5  6 7 8 9 10 11 12 13 </th>
+         <td> 5  6 7 8 9 10 11 12 13 </td>
     
-         <th> 14  15 16 17 18 19 20  </th>
+         <td> 14  15 16 17 18 19 20  </td>
     </tr>
 
 </table>
 </div>
-</body>
-</html>
-
